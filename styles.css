@@ -1,10 +1,10 @@
-/*로고 완성*/
-.logo{
-	margin-top: 80px;
-	text-align: center;
-}
+/*로고*/
 
 #logo_img{
+	display: block;
+	margin-top: 80px;
+	margin-right: auto;
+	margin-left: auto;
 	width: 165px;
 	height: 58px;
 }
@@ -25,9 +25,10 @@
 }
 
 /*이미지*/
-.travel_image{
-	text-align: center;
-}
+
 .imgAttribute{
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
 	width: 90%;
 }
