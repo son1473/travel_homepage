@@ -1,0 +1,33 @@
+/*로고 완성*/
+.logo{
+	margin-top: 80px;
+	text-align: center;
+}
+
+#logo_img{
+	width: 165px;
+	height: 58px;
+}
+
+/*메뉴*/
+.menu{
+	text-align: center;
+	margin-top: 60px;
+	margin-bottom: 60px;
+}
+
+.menu_link{
+	margin-right: 20px;
+	text-decoration: none;
+	font-family: 'Helvetica';
+	font-size: 16px;
+	color: #58595B;
+}
+
+/*이미지*/
+.travel_image{
+	text-align: center;
+}
+.imgAttribute{
+	width: 90%;
+}
